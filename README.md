@@ -61,22 +61,6 @@ The project demonstrates the practical use of fundamental programming concepts t
 3. Follow the on-screen instructions to manage or view academic records.
 4. Select Exit to close the application.
 
-## 📂 Project Structure
-
-```text
-CampusConnect-Student-Management/
-│
-├── Code.cpp
-├── Student.txt
-├── Teachers.txt
-├── Teacher1.txt
-├── Teacher2.txt
-├── Teacher3.txt
-├── Teacher4.txt
-├── Teacher5.txt
-└── Teacher6.txt
-```
-
 ## 👥 Authors
 
 This project was collaboratively developed by two students as part of the first-semester Programming Fundamentals course.
