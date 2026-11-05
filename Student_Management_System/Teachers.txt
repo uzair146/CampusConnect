@@ -1,0 +1,4 @@
+101,Ali Hafeez,bscs,Math
+102,Arsalan Mehmood,BS CS,Physics
+103,Ahsan Jabaar,BS CS,English
+
